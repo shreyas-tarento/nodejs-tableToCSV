@@ -35,7 +35,7 @@ const router = express.Router();
 const createCsvWriter = require("csv-writer").createObjectCsvWriter;
 
 const connectionString = [
-  "workstation id=omtooldb.mssql.somee.com;packet size=4096;Connect Timeout=30;user id=tomtapiteam_SQLLogin_2;pwd=zt6md4d6dt;data source=omtooldb.mssql.somee.com;persist security info=False;initial catalog=omtooldb;Encrypt=Yes;TrustServerCertificate=Yes;ApplicationIntent=ReadWrite;MultiSubnetFailover=False",
+  "add your connection string here",
 ];
 
 // CSV output file name
